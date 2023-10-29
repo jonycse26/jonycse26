@@ -43,7 +43,7 @@
 
 <h2>:man_technologist: About me ✨</h2>
 
-- 👨‍💼 **Student** as a **Masters in ICT at FAU**
+- 👨‍💼 **Student** as a **Masters in ICT at Friedrich-Alexander-Universität Erlangen-Nürnberg**
 - 👨‍🏫 Good at team playing
 - 🌿 Love to learn new things
 
