@@ -27,7 +27,8 @@
 <img align="right" src="https://github.com/yamin335/yamin335/blob/main/developer.gif" alt="Coder GIF" width="500" style="margin=0px 0px 0px 20px;">
 
 <h2>🛠️ Tech Stack 🎖️</h2>
-![CCNA](https://img.shields.io/badge/-Java-fff?style=flat&logo=java)
+
+
 ![Java](https://img.shields.io/badge/-Java-fff?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-606060?style=flat&logo=cplusplus)
