@@ -8,8 +8,8 @@
   <img src="https://github.com/yamin335/yamin335/blob/main/programmer.png" width="100"/>
    <h3 style="color=#dfefdf;">Change in a single line can cause 💥big bang💥 😁</h3>
    <div id="badges">
-   <a href="https://yamin335.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-ff6347?style=for-the-badge&logo=adguard&logoColor=white" alt="Portfolio Badge"/>
+   <a https://www.linkedin.com/in/jonyahmmed26/">
+     <img src="https://img.shields.io/badge/LinkedIn-0C66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/jonyahmmed26/">
       <img src="https://img.shields.io/badge/LinkedIn-0C66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
