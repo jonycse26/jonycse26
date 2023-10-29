@@ -11,20 +11,14 @@
    <a href="https://yamin335.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-ff6347?style=for-the-badge&logo=adguard&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/yamin335/">
+    <a href="https://www.linkedin.com/in/jonyahmmed26/">
       <img src="https://img.shields.io/badge/LinkedIn-0C66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://medium.com/@mdyamin">
-      <img src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/8617744/md-yamin-mollah">
-      <img src="https://img.shields.io/badge/StackOverflow-F48224?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-    </a>
-    <a href="https://www.hackerrank.com/myamin335">
-      <img src="https://img.shields.io/badge/HackerRank-32C765?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-    </a>
-  </div>
-</div>
+    
+    
+    
+   </div>
+ </div>
 
 <br>
 <br>
@@ -34,11 +28,6 @@
 
 <h2>🛠️ Tech Stack 🎖️</h2>
 
-![iOS](https://img.shields.io/badge/-iOS-606060?style=flat&logo=apple)
-![Android](https://img.shields.io/badge/-Android-606060?style=flat&logo=android)
-
-![Swift](https://img.shields.io/badge/-Swift-fff?style=flat&logo=swift)
-![Kotlin](https://img.shields.io/badge/-Kotlin-fff?style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-fff?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-606060?style=flat&logo=cplusplus)
@@ -47,16 +36,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-606060?style=flat&logo=css3)
 
-![SQLite](https://img.shields.io/badge/-SQLite-606060?style=flat&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-606060?style=flat&logo=mongodb)
-
-![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-606060?style=flat&logo=github&logoColor=FFFFFF)
-![CI/CD](https://img.shields.io/badge/-CI/CD-fff?style=flat)
-
-![Android Studio](https://img.shields.io/badge/-Android_Studio-606060?style=flat&logo=androidstudio)
-![Xcode](https://img.shields.io/badge/-Xcode-d9d9d9?style=flat&logo=xcode)
 
 <br>
 <br>
@@ -64,14 +43,9 @@
 
 <h2>:man_technologist: About me ✨</h2>
 
-- 🛠️ **Experience:** Over 5 years in software development
-- 👨‍💼 **Working** as a **Senior mobile application developer**
-- 🏆 **Experienced** in ***iOS*** and ***android*** application development
+- 👨‍💼 **Student** as a **Masters in ICT at FAU**
 - 👨‍🏫 Good at team playing
 - 🌿 Love to learn new things
-- 🍀 Meanwhile You can checkout my blogs on [Medium](https://medium.com/@mdyamin)
-- ⭐️ You can star my [repos](https://github.com/yamin335?tab=repositories), if you find something helpful 😊
-- 🥰 Feel free to visit my [Portfolio](https://yamin335.github.io/)
 
 
 
